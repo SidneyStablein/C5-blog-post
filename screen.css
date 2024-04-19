@@ -1,45 +1,11 @@
-/* Add screen styles below */
 @import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
-
-h1, h2, h3 {
-    font-family: "NTR", sans-serif;
-}
-
-body {
-    background-color: #D9C8CD !important;
-}
-
-
-
-h1 {
-    font-size: 64px;
-    margin: 0px;
-    margin-bottom: 0px;
-}
 
 .container {
     text-align: center;
     background-size: 100% 100%;
     position: relative;
-}
-
-.main {
-}
-
-.pink {
-    top: 400px;
-    right: 210px;
-    width: 100px;
-    height: 100px;
-    position: absolute;
-}
-
-.lightpink {
-    position: absolute;
-}
-
-.purple {
-    position: absolute;
+    margin-top: 70px;
+    margin-bottom: 70px;
 }
 
 .ntr-regular {
